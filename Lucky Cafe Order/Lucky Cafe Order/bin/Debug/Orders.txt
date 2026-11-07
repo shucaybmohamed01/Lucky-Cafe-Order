@@ -1,0 +1,44 @@
+1) mohamud - Coffe - Lucky: 1 - $2.00
+2) mohamud - Coffe - Lucky: 4 - $2.00
+3) mohamud - Coffe - Lucky: 24 - $2.00
+Total Price: $5.80
+System.Windows.Forms.Label, Text: Lucky Message: No Prize this time:
+-----------------------
+1) mohamud - Coffe - Lucky: 1 - $2.00
+2) mohamud - Coffe - Lucky: 4 - $2.00
+3) mohamud - Coffe - Lucky: 24 - $2.00
+Total Price: $5.80
+System.Windows.Forms.Label, Text: Lucky Message: No Prize this time:
+-----------------------
+1) mohamud - Coffe - Lucky: 1 - $2.00
+2) mohamud - Coffe - Lucky: 4 - $2.00
+3) mohamud - Coffe - Lucky: 24 - $2.00
+Total Price: $5.80
+System.Windows.Forms.Label, Text: Lucky Message: No Prize this time:
+-----------------------
+1) mohamud - Coffe - Lucky: 47 - $2.00
+2) mohamud - Coffe - Lucky: 7 - $2.00
+3) mohamud - Coffe - Lucky: 26 - $2.00
+Total Price: $5.80
+System.Windows.Forms.Label, Text: Lucky Message: You got a Free Cookie!
+-----------------------
+1) shucayb mohamed - Tea - Lucky: 46 - $1.00
+2) shucayb mohamed - Tea - Lucky: 27 - $1.00
+Total Price: $1.90
+System.Windows.Forms.Label, Text: Lucky Message: No Prize this time:
+-----------------------
+1) mohamed ali - Coffe - Lucky: 23 - $2.00
+2) mohamed ali - Coffe - Lucky: 17 - $2.00
+3) mohamed ali - Coffe - Lucky: 8 - $2.00
+Total Price: $5.80
+System.Windows.Forms.Label, Text: Lucky Message: You got a Free Cookie!
+-----------------------
+1) mohan - Tea - Lucky: 33 - $1.00
+2) mohan - Tea - Lucky: 24 - $1.00
+3) mohan - Tea - Lucky: 7 - $1.00
+ 
+Member Discount: 10%
+Total Before Discount: $3.00
+Total After Discount: $2.70
+Lucky Message: You get a Free Cookie! (Lucky 7)
+  

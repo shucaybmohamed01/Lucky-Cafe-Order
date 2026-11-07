@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.exe.config
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.exe
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.pdb
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order Project.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky_Cafe_Order.Form1.resources
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky_Cafe_Order.Properties.Resources.resources
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order Project.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.exe
+C:\Users\HP\Documents\Lucky Cafe Order\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.pdb
